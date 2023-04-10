@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+.div-title{
+    margin: 0 auto;
+}
+.text{
+    font-weight: bold;
+}
+.div-main{
+    width: 100px;
+    margin: 0 auto;
+}
